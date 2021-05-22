@@ -1,17 +1,12 @@
-Assalamu Alaikum , my name is Fatima Khatun 👋
+<h2>Assalamu Alaikum , my name is Fatima Khatun 👋</h2>
 <h2>Assalamu Alaikum, I am Md Mustafizur Rahman. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
 
-👨‍🎓 I am a Diploma Student  in Electronics Department And✨Web Designer And Developer - [Mustafizur][website] 💕
+👨‍🎓 I am a Diploma in computer engineer And✨Web Designer And Developer - [Fatima][website] 💕
 
  - 📙 I am currently Learning at Programming Hero
  - 🌱 I'm currently Learning NodeJS and MongoDB
  - 🎯 2021 Goals: Typescript, Vue, NextJS
--  ⚡ Fun fact: I love coding and love learning something new every day 🤔
--  🍔 I like to eat and sleep 😃
-
-### I Love Coding 🖥️  Music 🎵 Movie 🎞️ And Love To Read A Little 📘 
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt=" I Love Coding 🖥️  Music 🎵 Movie 🎞️ And Love To Read A Little 📘 " width="350" />](https://www.wpdeveloper24.com)
+-  ⚡ Fun fact: Coding is my passion | | Love to learn new things always 🤔
 
 ### Connect With Me:
 
@@ -33,16 +28,16 @@ Assalamu Alaikum , my name is Fatima Khatun 👋
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafizurrahma&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" alt="mustafizurrahma" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafizurrahma&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="mustafizurrahma" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafizurrahma&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="fatimakhatun" /></p>
 
 
 
 
 
 
-[website]: https://devs-portfolio.netlify.app/
-[twitter]: https://twitter.com/Mustafi07571826
-[instagram]: https://www.instagram.com/mustafizur5073
-[linkedin]: https://www.linkedin.com/in/mustafijur76/
-[facebook]: https://www.facebook.com/mustafijur76/
+[website]: https://fatimakhatun.com/
+[twitter]: https://twitter.com/fatima_khanum1
+[instagram]: https://www.instagram.com/
+[linkedin]: https://www.linkedin.com/in/fatima-khanum1/
+[facebook]: https://www.facebook.com/fatimakhatuncse/
 
