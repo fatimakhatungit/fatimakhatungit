@@ -46,8 +46,7 @@
 <div align="center">
   <i><b>Github Stats</b></i>
   <br/>
-  <img align="" src="https://github-readme-stats.fatimakhatun.vercel.app/api?username=fatimakhatun&show_icons=true" />
-</div>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatimakhatun&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" alt="fatimakhatun" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatimakhatun&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="fatimakhatun" /></p>
 
