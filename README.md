@@ -18,7 +18,6 @@
 <br />
 
 ## My Tech Stack
-![Laravel](https://img.shields.io/badge/-Laravel-%232c3e50?style=flat-square&logo=laravel)
 ![PHP](https://img.shields.io/badge/-PHP-%232c3e50?style=flat-square&logo=PHP)
 ![Node](https://img.shields.io/badge/-Node-%232c3e50?style=flat-square&logo=node.js)
 
