@@ -14,6 +14,9 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<a href="mailto:arifulalamszn@gmail.com">
+  <img align="left" alt="Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 
 <br />
 
@@ -54,4 +57,5 @@
 [instagram]: https://www.instagram.com/
 [linkedin]: https://www.linkedin.com/in/fatima-khanum1/
 [facebook]: https://www.facebook.com/fatimakhatuncse/
+
 
