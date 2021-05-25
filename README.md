@@ -59,16 +59,11 @@
 <br />
 <br />
 
-<div align="left">
-  <i><b>Github Stats</b></i>
-  <br/>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatimakhatungit&show_icons=true&locale=en&layout=compact" alt="fatimakhatungit" /></p>
-<br/>
- <br/>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatimakhatungit&show_icons=true&locale=en&layout=compact" alt="fatimakhatungit" /></p>
+
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=fatimakhatungit&show_icons=true&locale=en" alt="fatimakhatungit" /></p>
-
-
-
 
 
 
