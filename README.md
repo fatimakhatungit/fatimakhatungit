@@ -1,12 +1,12 @@
 <h2>Assalamu Alaikum, I am Fatima khatun. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
 
-👨‍🎓 I am a Diploma in computer engineer And✨Web Designer And Developer - [Fatima][website] 💕
+👨‍🎓 I am a Diploma in computer engineer And✨Frontend web developer-[Fatima][website] 💕
 
  - 📙 I am currently Learning at Programming Hero
  - 🌱 I'm currently Learning NodeJS and MongoDB
  - 🎯 2021 Goals: Typescript, Vue, NextJS
 -  ⚡ Fun fact: Coding is my passion | | Love to learn new things always 🤔
-
+<br/>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/6607041227d81f650340ff070cc2843518acad359b57e5bb054a9fb7127aa041/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323634363432332f73637265656e73686f74732f353530373139362f636f6d70757465722e676966"><img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/6607041227d81f650340ff070cc2843518acad359b57e5bb054a9fb7127aa041/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323634363432332f73637265656e73686f74732f353530373139362f636f6d70757465722e676966" data-canonical-src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" style="max-width:100%;"></a>
 <br/>
 
