@@ -65,12 +65,14 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=fatimakhatungit&show_icons=true&locale=en" alt="fatimakhatungit" /></p>
 
-
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fatimakhatungit )
 
 [website]: https://fatimakhatun.com/
 [twitter]: https://twitter.com/fatima_khanum1
 [instagram]: https://www.instagram.com/
 [linkedin]: https://www.linkedin.com/in/fatima-khanum1/
 [facebook]: https://www.facebook.com/fatimakhatuncse/
+
+
 
 
