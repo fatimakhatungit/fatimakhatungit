@@ -7,7 +7,7 @@
 
  - 📙 I am currently Learning at Programming Hero
  - 🌱 I'm currently Learning NodeJS and MongoDB
- - 🎯 2021 Goals: Typescript, Vue, NextJS
+ - 🎯 2022 Goals: Typescript, Vue, NextJS
 -  ⚡ Fun fact: I love to write code and teach other people
 
 
